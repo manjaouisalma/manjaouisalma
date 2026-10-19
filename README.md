@@ -12,7 +12,6 @@ Mon parcours est un peu atypique : j'ai commencé par des études d'économie, p
 
 <br/>
 
-<img align="right" alt="Mes technologies" src="./techstack-salma.gif" width="360px"/>
 
 ### 🧐 À propos de moi
 
