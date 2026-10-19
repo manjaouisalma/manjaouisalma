@@ -12,7 +12,7 @@ Mon parcours est un peu atypique : j'ai commencé par des études d'économie, p
 
 <br/>
 
-<img align="right" alt="Illustration technologies web" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="Mes technologies" src="https://skillicons.dev/icons?i=html,css,js,py,java,php,laravel,nodejs,express,react,mysql,mongodb,postgres,bootstrap,tailwind,docker,figma,git&perline=3"/>
 
 ### 🧐 À propos de moi
 
@@ -24,6 +24,7 @@ Mon parcours est un peu atypique : j'ai commencé par des études d'économie, p
 - 💬 &nbsp; Une question tech ? N'hésitez pas, je suis ravie d'échanger !
 - 📫 &nbsp; Me contacter : [LinkedIn](https://www.linkedin.com/in/VOTRE-LIEN-LINKEDIN/)
 
+<br/>
 <br/>
 <br/>
 
