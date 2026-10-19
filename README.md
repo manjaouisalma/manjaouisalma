@@ -12,7 +12,7 @@ Mon parcours est un peu atypique : j'ai commencé par des études d'économie, p
 
 <br/>
 
-<img align="right" alt="Illustration technologies web" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="Mes technologies" src="./assets/techstack-salma.gif" width="360px"/>
 
 ### 🧐 À propos de moi
 
