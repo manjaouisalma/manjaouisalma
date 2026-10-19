@@ -14,7 +14,8 @@ Mon parcours est un peu atypique : j'ai commencé par des études d'économie, p
 
 
 ### 🧐 À propos de moi
-<img alt="Mes technologies" src="./techstack-salma.gif" width="340"/>
+<img align="right" alt="Mes technologies" src="./assets/techstack-salma.gif" width="360px"/>
+
 - 🎓 &nbsp; Licence en Ingénierie des Systèmes Informatiques, Institut Supérieur de Génie Appliqué (IGA), Casablanca
 - 💻 &nbsp; Développement web Full Stack : **React**, **Laravel**, **JavaScript**, **PHP**, **MySQL**
 - 🌐 &nbsp; Réseaux & systèmes : **TCP/IP**, **VLAN**, **CCNA**
