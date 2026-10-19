@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, moi c'est Salma !</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/VOTRE-LIEN-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/salma-manjaoui/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Me%20contacter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -22,7 +22,7 @@ Mon parcours est un peu atypique : j'ai commencé par des études d'économie, p
 - 🌱 &nbsp; J'explore toujours de nouvelles technologies et bonnes pratiques
 - 🤝 &nbsp; Ouverte aux opportunités et aux collaborations
 - 💬 &nbsp; Une question tech ? N'hésitez pas, je suis ravie d'échanger !
-- 📫 &nbsp; Me contacter : [LinkedIn](https://www.linkedin.com/in/VOTRE-LIEN-LINKEDIN/)
+- 📫 &nbsp; Me contacter : https://www.linkedin.com/in/salma-manjaoui
 
 <br/>
 <br/>
