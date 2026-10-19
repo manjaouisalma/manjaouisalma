@@ -10,7 +10,9 @@ Je suis **diplômée en Ingénierie des Systèmes Informatiques** (IGA, Casablan
 
 Mon parcours est un peu atypique : j'ai commencé par des études d'économie, puis je me suis réorientée vers le développement web (diplôme Full Stack OFPPT/ISFO), avant de poursuivre en ingénierie informatique. Cette curiosité et cette envie d'apprendre continuellement me guident encore aujourd'hui. 🚀
 
-<br>
+<br/>
+
+<img align="right" alt="Illustration technologies web" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ### 🧐 À propos de moi
 
@@ -22,7 +24,8 @@ Mon parcours est un peu atypique : j'ai commencé par des études d'économie, p
 - 💬 &nbsp; Une question tech ? N'hésitez pas, je suis ravie d'échanger !
 - 📫 &nbsp; Me contacter : [LinkedIn](https://www.linkedin.com/in/VOTRE-LIEN-LINKEDIN/)
 
-<br>
+<br/>
+<br/>
 
 ### 🔨 Langages et outils
 
@@ -47,7 +50,7 @@ Mon parcours est un peu atypique : j'ai commencé par des études d'économie, p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" height="42"/>
 </p>
 
-<br>
+<br/>
 
 ### 📊 Statistiques GitHub
 
