@@ -1,11 +1,5 @@
 <h1 align="center">Salut 👋,  c'est Salma !</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/salma-manjaoui/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Me%20contacter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
 Je suis **diplômée en Ingénierie des Systèmes Informatiques** (IGA, Casablanca) et **développeuse web Full Stack junior**, avec une double compétence en **réseaux & systèmes**. J'aime concevoir des applications web complètes, du design de l'interface jusqu'à l'API et la base de données, tout en comprenant l'infrastructure sur laquelle elles tournent. 🌐🛠️
 
 Mon parcours est un peu atypique : j'ai commencé par des études d'économie, puis je me suis réorientée vers le développement web (diplôme Full Stack OFPPT/ISFO), avant de poursuivre en ingénierie informatique. Cette curiosité et cette envie d'apprendre continuellement me guident encore aujourd'hui. 🚀
