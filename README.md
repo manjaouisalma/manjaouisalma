@@ -13,16 +13,28 @@ Mon parcours est un peu atypique : j'ai commencé par des études d'économie, p
 <br/>
 
 
-### 🧐 À propos de moi
-<img align="right" alt="Mes technologies" src="./techstack-salma.gif" width="360px"/>
+<table>
+  <tr>
+    <td valign="top" width="58%">
 
-- 🎓 &nbsp; Licence en Ingénierie des Systèmes Informatiques, Institut Supérieur de Génie Appliqué (IGA), Casablanca
-- 💻 &nbsp; Développement web Full Stack : **React**, **Laravel**, **JavaScript**, **PHP**, **MySQL**
-- 🌐 &nbsp; Réseaux & systèmes : **TCP/IP**, **VLAN**, **CCNA**
-- 🌱 &nbsp; J'explore toujours de nouvelles technologies et bonnes pratiques
-- 🤝 &nbsp; Ouverte aux opportunités et aux collaborations
-- 💬 &nbsp; Une question tech ? N'hésitez pas, je suis ravie d'échanger !
-- 📫 &nbsp; https://www.linkedin.com/in/salma-manjaoui 
+### 🧐 À propos de moi
+
+<ul>
+  <li>🎓 Licence en Ingénierie des Systèmes Informatiques, <b>IGA</b>, Casablanca</li>
+  <li>💻 Full Stack : <b>React</b>, <b>Laravel</b>, <b>JavaScript</b>, <b>PHP</b>, <b>MySQL</b></li>
+  <li>🌐 Réseaux & systèmes : <b>TCP/IP</b>, <b>VLAN</b>, <b>CCNA</b></li>
+  <li>🌱 J'explore toujours de nouvelles technologies et bonnes pratiques</li>
+  <li>🤝 Ouverte aux opportunités et aux collaborations</li>
+  <li>💬 Une question tech ? N'hésitez pas, je suis ravie d'échanger !</li>
+  <li>📫 <a href="https://www.linkedin.com/in/salma-manjaoui">Me contacter sur LinkedIn</a></li>
+</ul>
+
+</td>
+    <td valign="middle" align="center" width="42%">
+      <img alt="Mes technologies" src="./techstack-salma.gif" width="340"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 <br/>
