@@ -16,10 +16,10 @@ Mon parcours est un peu atypique : j'ai commencé par des études d'économie, p
 ### 🧐 À propos de moi
 <img align="right" alt="Mes technologies" src="./techstack-salma.gif" width="360px"/>
 
-- 🎓 &nbsp;Licence en Ingénierie des Systèmes Informatiques, Institut Supérieur de Génie Appliqué (IGA), Casablanca
-- 💻 &nbsp;Développement web Full Stack : **React**, **Laravel**, **JavaScript**, **PHP**, **MySQL**
-- 🌐 &nbsp;Réseaux & systèmes : **TCP/IP**, **VLAN**, **CCNA**
-- 🌱 &nbsp;J'explore toujours de nouvelles technologies et bonnes pratiques
+- 🎓 &nbsp; Licence en Ingénierie des Systèmes Informatiques, Institut Supérieur de Génie Appliqué (IGA), Casablanca
+- 💻 &nbsp; Développement web Full Stack : **React**, **Laravel**, **JavaScript**, **PHP**, **MySQL**
+- 🌐 &nbsp; Réseaux & systèmes : **TCP/IP**, **VLAN**, **CCNA**
+- 🌱 &nbsp; J'explore toujours de nouvelles technologies et bonnes pratiques
 - 🤝 &nbsp; Ouverte aux opportunités et aux collaborations
 - 💬 &nbsp; Une question tech ? N'hésitez pas, je suis ravie d'échanger !
 - 📫 &nbsp; https://www.linkedin.com/in/salma-manjaoui 
@@ -55,6 +55,6 @@ Mon parcours est un peu atypique : j'ai commencé par des études d'économie, p
 ### 📊 Statistiques GitHub
 
 <p align="left">
-  <img height="170" alt="Statistiques GitHub" src="https://github-readme-stats.vercel.app/api?username=VOTRE-USERNAME&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="170" alt="Langages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE-USERNAME&layout=compact&hide_border=true"/>
+  <img height="170" alt="Statistiques GitHub" src="https://github-readme-stats.vercel.app/api?username=manjaouisalma&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="170" alt="Langages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjaouisalma&layout=compact&hide_border=true"/>
 </p>
