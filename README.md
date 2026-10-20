@@ -14,12 +14,12 @@ Mon parcours est un peu atypique : j'ai commencé par des études d'économie, p
 ### 🧐 À propos de moi
 
 <ul>
-  <li>🎓 Licence en Ingénierie des Systèmes Informatiques, <b>IGA</b>, Casablanca</li>
-  <li>💻 Full Stack : <b>React</b>, <b>Laravel</b>, <b>JavaScript</b>, <b>PHP</b>, <b>MySQL</b></li>
+  <li>🎓 Licence en Ingénierie des Systèmes Informatiques,<b>IGA</b>,Casablanca</li>
+  <li>💻 Full Stack :<b>React</b>,<b>Laravel</b>,<b>JavaScript</b>,<b>PHP</b>,<b>MySQL</b></li>
   <li>🌐 Réseaux & systèmes : <b>TCP/IP</b>, <b>VLAN</b>, <b>CCNA</b></li>
   <li>🌱 J'explore toujours de nouvelles technologies et bonnes pratiques</li>
   <li>🤝 Ouverte aux opportunités et aux collaborations</li>
-  <li>💬 Une question tech ? N'hésitez pas, je suis ravie d'échanger !</li>
+  <li>💬 Une question tech ? N'hésitez pas,je suis ravie d'échanger!</li>
   <li>📫 <a href="https://www.linkedin.com/in/salma-manjaoui">Me contacter sur LinkedIn</a></li>
 </ul>
 
